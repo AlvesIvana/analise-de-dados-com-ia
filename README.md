@@ -8,6 +8,8 @@ Projeto desenvolvido durante desafio da DIO utilizando NotebookLM e GitHub para 
 - Power BI
 - Inteligência Artificial
 - Data Analytics
+  
+---
 
 ## 📚 Objetivo
 
