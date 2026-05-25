@@ -1,4 +1,13 @@
 # 📊 Introdução à Análise de Dados com Inteligência Artificial
+Projeto desenvolvido durante desafio da DIO utilizando NotebookLM e GitHub para estudos sobre Análise de Dados com Inteligência Artificial.
+
+## 🚀 Tecnologias e Ferramentas
+
+- NotebookLM
+- GitHub
+- Power BI
+- Inteligência Artificial
+- Data Analytics
 
 ## 📚 Objetivo
 
